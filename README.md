@@ -1,7 +1,6 @@
 ### Oi!! Eu sou o Jhony
 
 - 🌱 Estudando programação diariamente
-
 ##
 
 <div align="center">
